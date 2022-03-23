@@ -401,6 +401,78 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kylegach",
+      "name": "Kyle Gach",
+      "avatar_url": "https://avatars.githubusercontent.com/u/486540?v=4",
+      "profile": "https://kylegach.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "antdke",
+      "name": "Anthony Diké",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22419667?v=4",
+      "profile": "https://antdke.co",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "m4ttsch",
+      "name": "Matt Schlenker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19544466?v=4",
+      "profile": "https://www.omscs-notes.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Siemik",
+      "name": "Jakub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45874801?v=4",
+      "profile": "https://github.com/Siemik",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "debone",
+      "name": "Victor Debone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/763457?v=4",
+      "profile": "https://debone.com.br",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "lifeparticle",
+      "name": "Mahbub Zaman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1612112?v=4",
+      "profile": "https://medium.com/@lifeparticle",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mokajima",
+      "name": "Misaki Okajima",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10166985?v=4",
+      "profile": "https://mokajima.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "marioleed",
+      "name": "Mario Sannum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1763448?v=4",
+      "profile": "https://github.com/marioleed",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "skipCi": true

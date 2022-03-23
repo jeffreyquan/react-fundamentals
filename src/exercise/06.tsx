@@ -3,7 +3,7 @@
 
 import '../box-styles.css'
 
-// 💰 Use the className for the size and style (backgroundColor) for the color
+// 💰 Use the className for the size and style (backgroundColor, fontStyle) for the color and the font style
 // 💰 each of the elements should also have the "box" className applied
 
 // 🐨 add a className prop to each of these and apply the correct class names
